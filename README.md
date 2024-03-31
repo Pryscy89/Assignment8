@@ -27,3 +27,12 @@ If you are working in a group, you also have the option of replacing the mushroo
 different data set that your group members might find more interesting.
 You should post the Jupyter Notebook (.ipynb) file in your GitHub repository, and provide the appropriate URL to
 your GitHub repository in your assignment link. You should also have the original data file accessible through your
+
+<img width="1311" alt="Screenshot 2024-03-31 at 1 06 06 PM" src="https://github.com/Pryscy89/Assignment8/assets/114356398/57d60997-bbb9-4280-a60a-3a4b5faada0b">
+<img width="1301" alt="Screenshot 2024-03-31 at 1 06 34 PM" src="https://github.com/Pryscy89/Assignment8/assets/114356398/75a637fe-f231-4bb7-814a-83c5b2fd4574">
+
+<img width="1301" alt="Screenshot 2024-03-31 at 1 06 20 PM" src="https://github.com/Pryscy89/Assignment8/assets/114356398/624c709f-2445-440a-8b26-dc3d777115d1">
+<img width="1308" alt="Screenshot 2024-03-31 at 1 06 28 PM" src="https://github.com/Pryscy89/Assignment8/assets/114356398/df6c6db8-3e4a-4b24-be96-1775dca6667a">
+<img width="1306" alt="Screenshot 2024-03-31 at 1 06 41 PM" src="https://github.com/Pryscy89/Assignment8/assets/114356398/cf2cd288-b5ef-4300-9094-e1e1cc5047c6">
+
+<img width="1271" alt="Screenshot 2024-03-31 at 1 06 47 PM" src="https://github.com/Pryscy89/Assignment8/assets/114356398/11ebadf8-6468-4e16-b690-3d48f8cd4a17">
